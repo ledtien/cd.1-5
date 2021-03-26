@@ -18,11 +18,11 @@ body{
   padding: px;
 }
 
-section {
+/* section {
     height: 35vh;
-}
+} */
 
-section:nth-of-type(1) {
-    height: 75vh;
-}
+/* section:nth-of-type(1) {
+    height: 35vh;
+} */
 
